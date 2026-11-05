@@ -1,14 +1,14 @@
-<!--MYCC-PORTFOLIO-META:%7B%22v%22%3A3%2C%22github%22%3A%22Chris-G-Green%22%2C%22name%22%3A%22Chris%20G%20Green%22%2C%22email%22%3A%22greenchris1497%40gmail.com%22%2C%22linkedin%22%3A%22%22%2C%22resume%22%3A%22%22%2C%22bio%22%3A%22Created%20a%20GitHub%20account%20to%20manage%20and%20showcase%20my%20coding%20projects.%20This%20platform%20allows%20me%20to%20collaborate%20with%20others%20and%20track%20my%20progress%20as%20I%20continue%20developing%20my%20technical%20skills.%22%2C%22themeIdx%22%3A1%2C%22skills%22%3A%5B%22Firewalls%22%2C%22VPN%22%2C%22Computer%20Hardware%22%2C%22PC%20Assembly%22%2C%22Troubleshooting%22%2C%22Storage%20Devices%22%2C%22Operating%20Systems%22%2C%22CompTIA%20Security%2B%22%5D%2C%22headlines%22%3A%5B%22IT%20Professional%22%2C%22Help%20Desk%20Specialist%22%2C%22MyComputerCareer%20Student%22%5D%2C%22customHeadlines%22%3A%5B%22IT%20Professional%22%2C%22MyComputerCareer%20Student%22%5D%2C%22customSkills%22%3A%5B%5D%2C%22certs%22%3A%5B%5D%2C%22customLabs%22%3A%7B%221%22%3A%5B%7B%22name%22%3A%22GitHub%22%2C%22desc%22%3A%22Created%20a%20GitHub%20account%20to%20manage%20and%20showcase%20my%20coding%20projects.%20This%20platform%20allows%20me%20to%20collaborate%20with%20others%20and%20track%20my%20progress%20as%20I%20continue%20developing%20my%20technical%20skills.%22%2C%22link%22%3A%22https%3A%2F%2Fgithub.com%2FChris-G-Green%2FChris-G-Green%22%2C%22status%22%3A%22complete%22%7D%5D%2C%222%22%3A%5B%5D%2C%223%22%3A%5B%5D%2C%224%22%3A%5B%5D%2C%225%22%3A%5B%5D%2C%226%22%3A%5B%5D%7D%7D-->
+<!--MYCC-PORTFOLIO-META:%7B%22v%22%3A3%2C%22github%22%3A%22Chris-G-Green%22%2C%22name%22%3A%22Chris%20G%20Green%22%2C%22email%22%3A%22greenchris1497%40gmail.com%22%2C%22linkedin%22%3A%22%22%2C%22resume%22%3A%22%22%2C%22bio%22%3A%22%22%2C%22themeIdx%22%3A0%2C%22skills%22%3A%5B%5D%2C%22headlines%22%3A%5B%5D%2C%22customHeadlines%22%3A%5B%5D%2C%22customSkills%22%3A%5B%5D%2C%22certs%22%3A%5B%7B%22name%22%3A%22Foundational%20skills%20for%20IT%20professionals%22%2C%22issuer%22%3A%22MyComputerCareer%22%2C%22link%22%3A%22https%3A%2F%2Fgithub.com%2FChris-G-Green%2FMYCC-certificates-and-certifications%2Fblob%2Fmain%2FNet%2520I%2520CoC%252011.2026%2520153.pdf%22%2C%22badge%22%3A%22%22%7D%5D%2C%22customLabs%22%3A%7B%221%22%3A%5B%5D%2C%222%22%3A%5B%5D%2C%223%22%3A%5B%5D%2C%224%22%3A%5B%5D%2C%225%22%3A%5B%5D%2C%226%22%3A%5B%5D%7D%7D-->
 
 <div align="center">
 
-<img src="https://github.com/Chris-G-Green.png" width="150" style="border-radius:50%;border:4px solid #2da44e"/>
+<img src="https://github.com/Chris-G-Green.png" width="150" style="border-radius:50%;border:4px solid #0969da"/>
 
 # Hi there, I'm Chris G Green
 
 **Chris G Green**
 
-*IT Professional*
+*ITSA Student*
 
 [![GITHUB](https://img.shields.io/badge/GITHUB-%40Chris-G-Green-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Chris-G-Green) [![EMAIL](https://img.shields.io/badge/EMAIL-CONTACT-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:greenchris1497@gmail.com)
 
@@ -18,17 +18,21 @@
 
 ## Professional Summary
 
-Created a GitHub account to manage and showcase my coding projects. This platform allows me to collaborate with others and track my progress as I continue developing my technical skills.
+*Add your professional summary above to display it here.*
 
 ---
 
 ## Skills Learned
 
-🖥️ Tech Essentials: ![Computer Hardware](https://img.shields.io/badge/Computer%20Hardware-2da44e?style=flat-square) ![PC Assembly](https://img.shields.io/badge/PC%20Assembly-2da44e?style=flat-square) ![Troubleshooting](https://img.shields.io/badge/Troubleshooting-2da44e?style=flat-square) ![Operating Systems](https://img.shields.io/badge/Operating%20Systems-2da44e?style=flat-square) ![Storage Devices](https://img.shields.io/badge/Storage%20Devices-2da44e?style=flat-square)
+*Select skills in the builder to display them here.*
 
-🌐 Networking & Security: ![Firewalls](https://img.shields.io/badge/Firewalls-2da44e?style=flat-square) ![VPN](https://img.shields.io/badge/VPN-2da44e?style=flat-square)
+---
 
-🔒 Cybersecurity: ![CompTIA Security+](https://img.shields.io/badge/CompTIA%20Security%2B-2da44e?style=flat-square)
+## 🏆 Certifications & Digital Badges
+
+| Certification | Issuer | Verify | Badge |
+|---|---|---|---|
+| Foundational skills for IT professionals | MyComputerCareer | [Verify](https://github.com/Chris-G-Green/MYCC-certificates-and-certifications/blob/main/Net%20I%20CoC%2011.2026%20153.pdf) | — |
 
 ---
 
@@ -37,9 +41,7 @@ Created a GitHub account to manage and showcase my coding projects. This platfor
 <details>
 <summary><strong>Course 1: Networking I</strong></summary>
 
-| Lab / Project | Description | Status | Link |
-|---|---|---|---|
-| GitHub | Created a GitHub account to manage and showcase my coding projects. This platform allows me to collaborate with others and track my progress as I continue developing my technical skills. | ✅ Complete | [Open](https://github.com/Chris-G-Green/Chris-G-Green) |
+*No labs added yet.*
 
 </details>
 
